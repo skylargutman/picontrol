@@ -1,0 +1,3 @@
+[submodule "drivers/ST7735_PI4"]
+	path = drivers/ST7735_PI4
+	url = https://github.com/skylargutman/ST7735_PI4.git
